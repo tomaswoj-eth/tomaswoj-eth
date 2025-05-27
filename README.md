@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Tomasz!!
+# 👋 Welcome, Tomasz Here!!
 
 **Empowering the decentralized web, one block at a time.**
 
