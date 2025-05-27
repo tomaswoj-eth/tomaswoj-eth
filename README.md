@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hello, I'm Tomasz!!
 
-<!--
-**tomaswoj-eth/tomaswoj-eth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Empowering the decentralized web, one block at a time.**
 
-Here are some ideas to get you started:
+I'm a developer on a mission to build trustless, censorship-resistant systems using Ethereum and beyond. I specialize in crafting secure smart contracts, scalable dApps, and open-source solutions that push the Web3 ecosystem forward.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⛓️ Blockchain Stack
+
+Currently building and exploring:
+
+- **Solidity** – Contract development on Ethereum Virtual Machine (EVM)
+- **Ethereum** – Core focus on decentralized application development
+- **RFOX** – Exploring its potential for scalable and immersive Web3 experiences
+
+---
+
+## 🔧 Languages & Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+</p>
+
+---
+
+## 🚀 What I'm Exploring
+
+- 🛡️ Smart Contract Security: Auditing, formal verification, and gas-efficient patterns  
+- ⚡ Layer 2 Scaling: Optimistic and zk-Rollups for speed and affordability  
+- 🌉 Interoperability: Cross-chain protocols and bridges  
+- 🧠 Applied DeFi: Yield strategies, governance systems, and on-chain data  
