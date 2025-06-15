@@ -1,22 +1,22 @@
-# 👋 Welcome, Tomasz Here!!
+# 🎨 Tomasz: Code as Expression, Ethereum as Canvas
 
-**Empowering the decentralized web, one block at a time.**
+**I build trustless systems that speak — through design, code, and purpose.**
 
-I'm a developer on a mission to build trustless, censorship-resistant systems using Ethereum and beyond. I specialize in crafting secure smart contracts, scalable dApps, and open-source solutions that push the Web3 ecosystem forward.
-
----
-
-## ⛓️ Blockchain Stack
-
-Currently building and exploring:
-
-- **Solidity** – Contract development on Ethereum Virtual Machine (EVM)
-- **Ethereum** – Core focus on decentralized application development
-- **RFOX** – Exploring its potential for scalable and immersive Web3 experiences
+I'm not just coding decentralized apps; I'm shaping digital spaces where ownership feels personal, coordination feels elegant, and trust is rebuilt through transparency. Ethereum is my medium, and smart contracts are my brush.
 
 ---
 
-## 🔧 Languages & Technologies
+## ✨ Blockchain Stack
+
+Currently exploring and building on:
+
+- **Solidity** – Expressive smart contracts for meaningful user experiences
+- **Ethereum** – A canvas for permissionless creativity
+- **RFOX** – Immersive digital ecosystems with artistic depth
+
+---
+
+## 🛠️ Languages & Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -31,9 +31,17 @@ Currently building and exploring:
 
 ---
 
-## 🚀 What I'm Exploring
+## 🧠 What Inspires Me
 
-- 🛡️ Smart Contract Security: Auditing, formal verification, and gas-efficient patterns  
-- ⚡ Layer 2 Scaling: Optimistic and zk-Rollups for speed and affordability  
-- 🌉 Interoperability: Cross-chain protocols and bridges  
-- 🧠 Applied DeFi: Yield strategies, governance systems, and on-chain data  
+- 🌌 **Smart Contract Aesthetics** – Writing code that's not just functional, but elegant  
+- 💎 **On-chain Expression** – NFTs, DAOs, and DeFi as collaborative art  
+- 🎭 **Digital Identity** – Self-sovereign presence and emotional design  
+- 🧬 **Ownership as Storytelling** – Tokens that mean more than utility  
+
+---
+
+## 🤝 Let’s Create Together
+
+Whether you’re a developer, designer, musician, or dreamer — if you're building something poetic with blockchain, let’s connect and co-create.
+
+> _“In a decentralized world, code isn’t just law — it’s language, rhythm, and reflection.”_
